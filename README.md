@@ -1,4 +1,4 @@
-## Hey I'm Bea, programmer and ready to learn 🤠 
+## My name is Bea, I'm programmer and ready to learn 🤠 
 
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning technology and development
