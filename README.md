@@ -1,4 +1,4 @@
-## My name is Bea, I'm programmer and ready to learn 🤠 
+# My name is Bea, I'm programmer and ready to learn 🤠 
 
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning technology and development
@@ -15,7 +15,8 @@
   <img align="center" alt="Bea-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bea-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Bea-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+  <img align="center" alt="Bea-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+</div>           
   
   ##
  
